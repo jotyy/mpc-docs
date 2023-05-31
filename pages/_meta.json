@@ -8,13 +8,13 @@
   "systems": "系统",
   "use-cases": "使用案例",
   "about": {
-    "title": "About",
+    "title": "关于",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系我 ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://github.com/jotyy",
     "newWindow": true
   }
 }

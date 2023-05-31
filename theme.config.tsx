@@ -6,9 +6,6 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/jotyy/mpc-doc",
   },
-  chat: {
-    link: "https://discord.com",
-  },
   docsRepositoryBase: "https://github.com/jotyy/mpc-doc",
   footer: {
     text: "MPC 文档 © 2023 by jotyy",
