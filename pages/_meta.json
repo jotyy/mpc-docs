@@ -1,7 +1,12 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": {
+    "title": "什么是MPC"
+  },
+  "basic-building-blocks": "基本构建单元",
+  "advanced-building-blocks": "高级构建单元",
+  "protocols": "协议",
+  "systems": "系统",
+  "use-cases": "使用案例",
   "about": {
     "title": "About",
     "type": "page"
